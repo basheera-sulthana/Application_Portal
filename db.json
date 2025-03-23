@@ -1,0 +1,85 @@
+{
+  "userinfo": [
+    {
+      "uname": " Mustafha",
+      "email": "mustafha.ahmad24@gmail.com",
+      "number": "1123344555",
+      "website": "http://www.google.com",
+      "id": 1
+    },
+    {
+      "uname": "Mustafha Ahmad Shaik",
+      "email": "o190074@rguktong.ac.in",
+      "number": "9999999999",
+      "website": "http://www.google.com",
+      "id": 2
+    },
+    {
+      "uname": "basheera shaik",
+      "email": "mustafha.ahmad24@gmail.com",
+      "number": "6666666666",
+      "website": "http://www.google.com",
+      "id": 3
+    },
+    {
+      "uname": "nasrin",
+      "email": "abc@gmail.com",
+      "number": "1234567890",
+      "website": "http://www.abce.com",
+      "id": 4
+    },
+    {
+      "uname": "wewewwew",
+      "email": "sdsf@ggmail.com",
+      "number": "111111111",
+      "website": "https://www.abc.com",
+      "id": 5
+    },
+    {
+      "uname": "wewewwew",
+      "email": "sdsf@ggmail.com",
+      "number": "1111111111",
+      "website": "https://www.abc.com",
+      "id": 6
+    },
+    {
+      "uname": "wewe",
+      "email": "sdsf@ggmail.com",
+      "number": "11111111111",
+      "website": "https://www.abc.com",
+      "id": 7
+    }
+  ],
+  "loginfo": [
+    {
+      "logname": "basheera",
+      "logpwd": "uttt@333",
+      "id": 1
+    },
+    {
+      "logname": "nasrin",
+      "logpwd": "ftdtdt@333",
+      "id": 2
+    },
+    {
+      "logname": "basheera",
+      "logpwd": "uguguS@333",
+      "id": 3
+    },
+    {
+      "logname": "basheera",
+      "logpwd": "kncjcjdsj@#33",
+      "id": 4
+    },
+    {
+      "logname": "basheera",
+      "logpwd": "basheera@123",
+      "id": 5
+    },
+    {
+      "logname": "abcdef",
+      "logpwd": "Abc123@@",
+      "id": 6
+    }
+  ]
+}
